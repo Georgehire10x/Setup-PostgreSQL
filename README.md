@@ -136,4 +136,4 @@ SELECT * FROM pg_stat_activity;
 
 ---
 
-This guide provides all necessary steps to install, configure, and manage a PostgreSQL database on Ubuntu. 🚀 Let me know if you need any modifications!
+This guide provides all necessary steps to install, configure, and manage a PostgreSQL database on Ubuntu.
