@@ -1,5 +1,3 @@
-Here’s a detailed description of each command, formatted so you can add it to your repository’s README file.
-
 ---
 
 ## **PostgreSQL Installation and Setup on Ubuntu**
